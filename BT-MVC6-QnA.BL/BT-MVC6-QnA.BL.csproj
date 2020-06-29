@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>BT_MVC6_QnA.BL</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="UseCases\" />
+  </ItemGroup>
+
+</Project>
